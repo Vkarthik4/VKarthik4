@@ -1,5 +1,5 @@
-<h2 align="left">Hey👋! I'm Karthik </h2>
-<h3>CSE 3rd year student at SRM University<br>Passionate Data Analyst!!</h3>
+<h1 align="center">Hi 👋, I'm Karthik</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 
 
