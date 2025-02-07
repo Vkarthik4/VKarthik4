@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 
 
@@ -13,7 +13,6 @@
 <!-- Skills Icons Section -->
 <div align="left">
   <h5>SKILLS</h5>
-  <img src="https://img.shields.io/static/v1?message=PowerBI&logo=powerbi&label=&color=F2C811&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="powerbi logo" />
   <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=306998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="python logo" />
   <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mysql logo" />
   <img src="https://img.shields.io/static/v1?message=Excel&logo=microsoft-excel&label=&color=217346&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="excel logo" />
